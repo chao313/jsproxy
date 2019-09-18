@@ -16,7 +16,7 @@ jsproxy_config({
     'aliyun-sg': {
       label: '演示服务-新加坡节点',
       lines: [
-        'node-aliyun-sg.etherdream.com:8443'
+        '39.107.236.187.xip.io:8443'
       ]
     },
     'mysite': {
