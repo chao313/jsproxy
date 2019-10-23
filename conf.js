@@ -16,7 +16,7 @@ jsproxy_config({
     'aliyun-sg': {
       label: '阿里云节点',
       lines: [
-        '39.107.236.187.xip.io:8443'
+        '39.107.236.187.xip.io:443'
       ]
     },
     'mysite': {
